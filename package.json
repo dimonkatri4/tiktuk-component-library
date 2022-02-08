@@ -1,5 +1,8 @@
 {
-  "name": "component-library",
+  "name": "@dimonkatri4/tiktuk-component-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/dimonkatri4"
+  },
   "version": "1.0.0",
   "description": "",
   "scripts": {

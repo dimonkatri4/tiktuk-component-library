@@ -1,9 +1,8 @@
 import React from 'react';
 import {StyledImg, StyledLink, StyledLogo} from './Logo.styled';
-import logo from './logo.png'
 
 
-const Logo = function () {
+const Logo = function ({logo}) {
     return (
         <StyledLogo>
             <StyledLink to="/trends">
